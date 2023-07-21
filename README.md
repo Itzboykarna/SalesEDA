@@ -1,2 +1,2 @@
 # SalesEDA
-October Sale of  a online shopping app Exploiatory Data analysis with python
+October Sale of  an online shopping app Exploratory Data analysis with python
